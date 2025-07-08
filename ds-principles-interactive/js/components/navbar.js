@@ -8,6 +8,7 @@ class NavBar extends HTMLElement {
         <li><a href="#stats">Stats</a></li>
         <li><a href="#ethics">Ethics</a></li>
         <li><a href="#reproducibility">Reproducibility</a></li>
+        <li><a href="#n8n">n8n</a></li>
       </ul>
     `;
   }
