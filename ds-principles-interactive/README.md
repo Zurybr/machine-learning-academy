@@ -9,6 +9,7 @@ Clona este repositorio y abre `index.html` en tu navegador.
 ```
  git clone <repo-url>
  open index.html
+ python -m http.server 8000
 ```
 
 Cada lección es una página que se carga mediante el hash de la URL.
