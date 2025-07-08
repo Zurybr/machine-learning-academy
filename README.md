@@ -7,6 +7,7 @@
 * [Phase 4: Machine Learning Fundamentals](#phase-4-machine-learning-fundamentals)
 * [Phase 5: Deep Learning](#phase-5-deep-learning)
 * [Phase 6: Specialization and Projects](#phase-6-specialization-and-projects)
+* [Learn n8n](#learn-n8n)
 
 ---
 
@@ -129,3 +130,11 @@
   * End-to-end ML application
   * Reproduce a research paper
   * Contribute to an open-source ML library
+
+---
+
+## Learn n8n
+
+* **Workflow Automation Basics**: triggers, nodes, and connections
+* **Integrations**: connect APIs, databases, and services
+* **Self-Hosting Tips**: environment setup and security basics

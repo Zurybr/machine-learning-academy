@@ -9,6 +9,7 @@ const routes = {
   stats: () => import('./lessons/03-stats-thinking.js'),
   ethics: () => import('./lessons/04-ethics.js'),
   reproducibility: () => import('./lessons/05-reproducibility.js'),
+  n8n: () => import('./lessons/06-n8n.js'),
 };
 
 function landing() {
@@ -19,6 +20,7 @@ function landing() {
     {hash: '#stats', title: 'Statistical Thinking'},
     {hash: '#ethics', title: 'Data Ethics'},
     {hash: '#reproducibility', title: 'Reproducibility'},
+    {hash: '#n8n', title: 'n8n Automation'},
   ];
   lessons.forEach(l => {
     const card = document.createElement('lesson-card');
